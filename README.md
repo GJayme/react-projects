@@ -8,3 +8,4 @@ Works developed as a result of constant study.
 3. [Type Race Game](https://github.com/GJayme/type-race-game)
 4. [Tours](https://github.com/GJayme/tours)
 5. [MovieApp](https://github.com/GJayme/movieApp)
+6. [GoBarber V2](https://github.com/GJayme/go-barber-v2)
