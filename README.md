@@ -9,3 +9,4 @@ Works developed as a result of constant study.
 4. [Tours](https://github.com/GJayme/tours)
 5. [MovieApp](https://github.com/GJayme/movieApp)
 6. [GoBarber V2](https://github.com/GJayme/go-barber-v2)
+7. [Babel + Webpack + React](https://github.com/GJayme/react-with-webpack-babel-config)
