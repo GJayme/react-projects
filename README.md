@@ -11,3 +11,4 @@ Works developed as a result of constant study.
 6. [GoBarber V2](https://github.com/GJayme/go-barber-v2)
 7. [Babel + Webpack + React](https://github.com/GJayme/react-with-webpack-babel-config)
 8. [Github Explorer](https://github.com/GJayme/github-explorer)
+9. [GoBarber V3](https://github.com/GJayme/gobarber-v3)
