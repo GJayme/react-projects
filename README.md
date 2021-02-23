@@ -12,4 +12,4 @@ Works developed as a result of constant study.
 07. [Babel + Webpack + React](https://github.com/GJayme/react-with-webpack-babel-config)
 08. [Github Explorer](https://github.com/GJayme/github-explorer)
 09. [GoBarber V3](https://github.com/GJayme/gobarber-v3)
-10.[Clean React](https://github.com/GJayme/clean-react)
+10. [Clean React](https://github.com/GJayme/clean-react)
