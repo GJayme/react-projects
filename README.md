@@ -13,3 +13,4 @@ Works developed as a result of constant study.
 08. [Github Explorer](https://github.com/GJayme/github-explorer)
 09. [GoBarber V3](https://github.com/GJayme/gobarber-v3)
 10. [Clean React](https://github.com/GJayme/clean-react)
+11. [MoveIt - React + Next.js](https://github.com/GJayme/move-it-v1)
